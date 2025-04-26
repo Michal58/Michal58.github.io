@@ -92,8 +92,8 @@ body.dark-mode {
 }
 
 .modal-content {
-    max-width: 90%;
-    max-height: 80%;
+    height: 90%;
+    width: auto;
     border-radius: 8px;
 }
 
